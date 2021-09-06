@@ -1,0 +1,43 @@
+body {
+    background-image: url("bckgnd.jpg");
+    background-repeat: no-repeat;
+    /*background-size: 100% 100vh;*/
+    /*background-size: auto;*/
+    background-size: cover;
+}
+
+#browser {
+    text-decoration-color: black;
+    position: fixed;
+    top: 20%;
+    left: 45%;
+    background-color: yellow;
+    border-color: red;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#user {
+    text-decoration-color: black;
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    background-color: yellow;
+    border-color: red;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
